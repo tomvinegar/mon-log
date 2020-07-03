@@ -1,0 +1,9 @@
+---
+layout: default
+title: Investigators
+---
+<h1>investigators</h1>
+{% for inv in site.investigators %}
+ <h3>{{ inv.short_name }}</h3>
+ {{ inv.content | markdownify }}
+{% endfor %}

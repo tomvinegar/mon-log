@@ -1,0 +1,43 @@
+@import "variables";
+
+body {
+  background-color: $bg-color;
+  color: $fg-color;
+  font-family: $font-primary;
+}
+
+a {
+  color: $link-color;
+}
+
+h1 {
+  color: $header-color;
+}
+
+.no-bullet {
+  list-style-type: none;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+
+  .panel {
+    flex: 1;
+    flex-direction: column;
+      li {
+        padding-bottom: .8em;
+      }
+  }
+
+  .content {
+    flex: 2;
+  }
+}
+
+.next-prev {
+  display: flex;
+  flex: 1; 
+  justify-content: space-between;
+}

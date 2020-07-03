@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2020/05/26/meeting.html</loc>
+<lastmod>2020-05-26T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/06/02/university.html</loc>
+<lastmod>2020-06-02T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/06/09/mendoza-round-two.html</loc>
+<lastmod>2020-06-09T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/06/16/puno.html</loc>
+<lastmod>2020-06-16T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/06/23/island-battle.html</loc>
+<lastmod>2020-06-23T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/investigators.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
+</url>
+</urlset>
