@@ -13,5 +13,5 @@ Mendoza strikes again, Narya's life hangs in the balance, Jackson takes matters 
 * The taunting continues even as the body dies; now, the voice matches the one Charlotte heard in her mirror-vision. The body fails before the spirit and Larkin is no more. 
 * The desk boy, having seen the whole thing, flees for help, but Ed and Storm knock him out and bring to Jacksons room. 
 * They wrap Larkin in a rug and pour booze on the desk boy to discredit him. They determine to leave Puno immediately, and Jackson reveals Narya shared the location of the temple; they must beat Mendoza there and put an end to the Kharisari and the curse. 
-* Analise drives their truck into the mountains. As the sun rises they set out on foot to find and end the source of this old evil...
+* Analise loads the truck and heads for the hills... 
 
