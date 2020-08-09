@@ -1,5 +1,5 @@
 ---
-title: "We Gotta Stop Meeting Like This"
+title: "Eight: We Gotta Stop Meeting Like This"
 ---
 
 Witnesses to Jacksons murder, the party flashback to the adventures they've shared over the years, including a deadly snake cult, a meeting with a lost race in the Canadian arctic, and an impossible manor in the Hebrides. 
