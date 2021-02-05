@@ -2,7 +2,7 @@
 title: "Thirteen: On the Trail"
 ---
 
-The police get involved again, the party meets Arthur Emerson and learns about Ju-Ju House, Judge takes a part-time, and the group returns to Harlem to meet the Marlem Hellfighters... 
+The police get involved again, the party meets Arthur Emerson and learns about Ju-Ju House, Judge takes a part-time job, and the group returns to Harlem to meet the Marlem Hellfighters... 
 
 * Millie and Bruce leave the penthouse. Soon after police from Captain Robsons 7th arrive to arrest the party. Rebecca points out that if the group were responsible for the trouble in Harlem, that mean the police story of gang violence wouldn't be true. Unsure of how to handle the conflict, the police back down. 
 * Before leaving the cops make very specific threats and innuendo regarding the party and people close to them. Jon finds their amount of knowledge curious. He sends a telegram to his employer to see if there's been any requests about him to the police in the UK. 
